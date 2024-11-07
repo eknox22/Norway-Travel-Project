@@ -1,2 +1,35 @@
-# Norway-Travel-Project
- SheCodes Responsive Add-On Workshop Project
+# Oslo Landing Page
+
+## Project Description
+
+_I created this project for the **SheCodes** Responsive Add-on workshop. This project is a **responsive landing page** which can be accessed through any web browser: desktop or mobile._
+
+### 1. Key features
+
+- The **single-site** landing page is built with vanilla **JavaScript**, HTML and CSS
+- **Dark and light** modes are available in the app
+- The **responsive design** re-organizes the layout the landing page to better fit smaller screens
+- **Hover effect** on images for user interactivity
+- The landing page uses video and social media **embeds**
+
+### 2. Technologies & Tools Used
+
+- HTML
+- CSS
+- VS Code
+
+### 3. Links
+
+- Visit the Landing Page [here](https://norway-travel-project-ekc.netlify.app/)
+- Further info about [SheCodes](https://www.shecodes.io/)
+- Photos are from [Usplash](https://unsplash.com/)
+- The used fonts are from [Google Fonts](https://fonts.google.com/)
+
+# Credits
+
+- The weather app was created by [s-shemmee](https://github.com/s-shemmee) as a final project for the SheCodes React workshop.
+- The app uses the SheCodes Weather API to retrieve weather data.
+
+# License
+
+This project is licensed under the MIT license.
