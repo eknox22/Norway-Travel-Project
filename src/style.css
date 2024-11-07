@@ -13,16 +13,16 @@ body {
   grid-gap: 70px;
 }
 
+.img-respoonsive {
+  max-width: 100%;
+}
+
 .grid-2-columns {
   grid-template-columns: 1fr 1fr;
 }
 
-.grid-3-columns {
+.grid-3-columns-footer {
   grid-template-columns: 1fr 2fr 2fr;
-}
-
-.img-respoonsive {
-  max-width: 100%;
 }
 
 section {
