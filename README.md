@@ -6,10 +6,6 @@ _I created this project for the **SheCodes** Responsive Add-on workshop. This pr
 
 ### 1. Key features
 
-- The **single-site** landing page is built with vanilla **JavaScript**, HTML and CSS
-- **Dark and light** modes are available in the app
-- The **responsive design** re-organizes the layout the landing page to better fit smaller screens
-- **Hover effect** on images for user interactivity
 - The landing page uses video and social media **embeds**
 
 ### 2. Technologies & Tools Used
