@@ -123,10 +123,19 @@ header a {
   display: inline-block;
   letter-spacing: 3px;
   text-transform: uppercase;
+  cursor: pointer;
+}
+
+header a:hover {
+  background-color: #ebe9e9;
 }
 
 main {
   background-color: white;
+}
+
+main img {
+  padding-top: 50px;
 }
 
 main h2 {
@@ -137,6 +146,7 @@ main h2 {
   letter-spacing: 5px;
   font-size: 16px;
   font-weight: 700;
+  padding-top: 50px;
 }
 
 main h3 {
