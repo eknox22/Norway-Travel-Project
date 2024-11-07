@@ -13,9 +13,18 @@ body {
   grid-gap: 70px;
 }
 
+.grid-2-columns {
+  grid-template-columns: 1fr 1fr;
+}
+
+.img-respoonsive {
+  max-width: 100%;
+}
+
 section {
   max-width: 1200px;
   margin: 0 auto;
+  padding: 100px 0;
 }
 
 header {
@@ -57,7 +66,7 @@ header a {
   line-height: 1.5;
   text-align: center;
   background-color: rgb(249, 252, 255);
-  border-radius: 4px;
+  border-radius: 2px;
   padding: 20px;
   text-decoration: none;
   color: black;
@@ -68,13 +77,16 @@ header a {
   text-transform: uppercase;
 }
 
+main {
+  background-color: white;
+}
+
 footer {
   color: white;
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)),
     url("../images/footer.png");
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 100px 0;
 }
 
 footer h3 {
@@ -88,7 +100,6 @@ footer p {
   opacity: 0.7;
   line-height: 24px;
   font-size: 16px;
-  margin-right: 20px;
 }
 
 footer ul {
@@ -121,5 +132,14 @@ footer a {
 
   header h3 {
     font-size: 12px;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+    grid-gap: 32px;
+  }
+
+  section {
+    padding: 30px;
   }
 }
