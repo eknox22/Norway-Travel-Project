@@ -7,7 +7,6 @@ header {
     url("../images/norway.png");
   background-repeat: no-repeat;
   background-size: cover;
-  font-family: "Poppins", sans-serif;
   color: rgb(249, 252, 255);
   text-align: center;
   padding: 200px 0;
@@ -53,7 +52,41 @@ header a {
   text-transform: uppercase;
 }
 
-@media (max-width: 900px) {
+footer {
+  color: white;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7)),
+    url("../images/footer.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px;
+}
+
+footer h3 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+footer p {
+  font-weight: 400;
+}
+
+footer ul {
+  padding: 0;
+}
+
+footer li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer a {
+  color: white;
+  opacity: 0.6;
+}
+
+@media (max-width: 960px) {
   header {
     padding: 60px 0;
   }
