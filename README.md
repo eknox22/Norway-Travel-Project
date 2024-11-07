@@ -6,6 +6,8 @@ _I created this project for the **SheCodes** Responsive Add-on workshop. This pr
 
 ### 1. Key features
 
+- The **single-site** landing page is built with HTML and CSS
+- The **responsive design** re-organises the layout the landing page to better fit smaller screens
 - The landing page uses video and social media **embeds**
 
 ### 2. Technologies & Tools Used
