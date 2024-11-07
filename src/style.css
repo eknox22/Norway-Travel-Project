@@ -2,6 +2,22 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr 2fr;
+  grid-gap: 70px;
+}
+
+section {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
     url("../images/norway.png");
@@ -58,7 +74,7 @@ footer {
     url("../images/footer.png");
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 100px;
+  padding: 100px 0;
 }
 
 footer h3 {
@@ -69,6 +85,10 @@ footer h3 {
 
 footer p {
   font-weight: 400;
+  opacity: 0.7;
+  line-height: 24px;
+  font-size: 16px;
+  margin-right: 20px;
 }
 
 footer ul {
