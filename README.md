@@ -25,8 +25,7 @@ _I created this project for the **SheCodes** Responsive Add-on workshop. This pr
 
 # Credits
 
-- The weather app was created by [s-shemmee](https://github.com/s-shemmee) as a final project for the SheCodes React workshop.
-- The app uses the SheCodes Weather API to retrieve weather data.
+- The landing page was created by [eknox22](https://github.com/eknox22) as a final project for the SheCodes Responsive Add-on workshop.
 
 # License
 
