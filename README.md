@@ -4,6 +4,9 @@
 
 _I created this project for the **SheCodes** Responsive Add-on workshop. This project is a **responsive landing page** which can be accessed through any web browser: desktop or mobile._
 
+<img width="1475" alt="Oslo Landing Page Preview" src="https://github.com/user-attachments/assets/4a26218e-bb55-4e11-af62-fa60ce9ff91e">
+
+
 ### 1. Key features
 
 - The **single-site** landing page is built with HTML and CSS
